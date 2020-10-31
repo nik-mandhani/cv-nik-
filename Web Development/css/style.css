@@ -1,0 +1,47 @@
+body{
+
+background-color: #e8ffff;
+
+}
+
+img{
+
+  height: 200px;
+  width: 200px;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-height: 0px;
+width: 10%;
+border-width: 5px;
+}
+
+h3
+{
+color: #008891;
+font-family: cursive;
+}
+p
+{
+color: #008891;
+font-family: cursive;
+}
+li
+{
+color: #008891;
+font-family: cursive;
+}
+a{
+  color: #0B0080  ;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+ text-decoration: none;
+}
+
+td
+  {
+  color: #008891;
+  font-family: cursive;
+  }

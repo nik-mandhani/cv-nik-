@@ -1,0 +1,205 @@
+
+body{
+  margin: 0;
+text-align: center;
+}
+h1
+{
+  margin-bottom: 0px;
+  margin-top: 0px;
+font-family: 'Caveat', cursive;
+ font-size: 80px;
+ color: #1c2b2d;
+}
+p{
+    margin-top: 0px;
+  font-family: 'Oswald', sans-serif;
+   font-size: 20px;
+       margin-bottom: 40px;
+}
+.first {
+
+  background-color: #ffc7c7;
+    height: 700px;
+
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.myskill{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.one1{
+position: absolute;
+ height: 70px;
+ width: auto;
+ left: 260px;
+top: 710px;
+
+}
+.one{
+position: absolute;
+ height: 110px;
+width: auto;
+top: 250px;
+right: 210px;
+}
+.two{
+  height: 400px;
+  width: auto;
+      padding-top: 90px;
+}
+.span{
+
+  font-weight: bold;
+  font-style: italic;
+}
+.profile{
+padding-top: 30px;
+}
+h2{
+  font-family: 'Fjalla One', sans-serif;
+  color: #214252;
+}
+
+
+.skill1{
+  height: 200px;
+  width: auto;
+  float: left;
+      margin-right: 40px;
+}
+
+.firsth3{
+    margin-bottom: 0px;
+    font-size: 1.5em;
+     font-weight: bold;
+}
+h3{
+    font-family: 'Fjalla One', sans-serif;
+    color: #214252;
+
+}
+.skill2{
+  height: 200px;
+  width: auto;
+margin-top: 15px;
+float: right;
+    margin-left: 40px;
+}
+.dd
+{margin-top: 0px;}
+.foot{
+      margin-top: 30px;
+margin-bottom: 15px;
+font-size: 14px;
+}
+.based{
+font-family: 'Oswald', sans-serif;
+color: black;
+font-weight: normal;
+}
+a{
+    color: #214252;
+    margin-left: 20px;
+    margin-right: 20px;
+  text-decoration: none;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+}
+a:hover {
+  color: white;
+}
+.contact-me{
+  color: black;
+}
+
+.top{
+  color: #1c2b2d;
+}
+.skill-row{
+  width: 40%;
+  margin: 50px auto 120px auto;
+   text-align: left;
+}
+.linespace{
+  line-height: 2;
+}
+.last{
+  background-color: #aaaaaa;
+  padding-top: 40px;
+  padding-bottom: 5px;
+      margin-top: 50px;
+}
+hr{
+  border-top: 5px dotted #ffe2e2;
+  width: 10%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+.nik{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.hola{
+
+}
+.intro{
+  width: 45%;
+  margin: 10px auto;
+  padding-bottom: 40px;
+  line-height: 2;
+}
+.contact-me{
+  margin-top: 50px;
+  width: 30%;
+  margin: 50px auto;
+}
+
+.x {
+   background: #3DF674;
+   background-image: -webkit-linear-gradient(top, #3DF674, #1ED06C);
+   background-image: -moz-linear-gradient(top, #3DF674, #1ED06C);
+   background-image: -ms-linear-gradient(top, #3DF674, #1ED06C);
+   background-image: -o-linear-gradient(top, #3DF674, #1ED06C);
+   background-image: -webkit-gradient(to bottom, #3DF674, #1ED06C);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 3px;
+   line-height: 3px;
+   color: #FFFFFF;
+       font-family: 'Fjalla One', sans-serif;
+   width: 102px;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 18px;
+   -webkit-box-shadow: -3px 1px 20px 0 #FFFFFF;
+   -moz-box-shadow: -3px 1px 20px 0 #FFFFFF;
+   box-shadow: -3px 1px 20px 0 #FFFFFF;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #99C624 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+.x:hover {
+   border: solid #99C624 0;
+   background: #7FF63D;
+   background-image: -webkit-linear-gradient(top, #7FF63D, #3DF30A);
+   background-image: -moz-linear-gradient(top, #7FF63D, #3DF30A);
+   background-image: -ms-linear-gradient(top, #7FF63D, #3DF30A);
+   background-image: -o-linear-gradient(top, #7FF63D, #3DF30A);
+   background-image: -webkit-gradient(to bottom, #7FF63D, #3DF30A);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+
+
+}

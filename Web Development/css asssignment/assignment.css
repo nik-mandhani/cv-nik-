@@ -1,0 +1,17 @@
+body{
+
+  background-color: #fcdada ;
+}
+
+.bacon{
+  background-color: #5c969e;
+  height: 100px;
+}
+.hero{
+  background-color: #3d7ea6;
+  height: 100px;
+}
+
+img:hover{
+  background-color: pink;
+}
